@@ -1,0 +1,6 @@
+name: Bungeesystem
+version: '${project.version}'
+main: de.zappler2k.bansystem.BanSystem
+
+commands:
+  banmanager:
